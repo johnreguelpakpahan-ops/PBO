@@ -1,0 +1,6 @@
+pbo_w5s3_41425035.SistemPertahanan
+pbo_w5s3_41425035.MantraAntiApparition
+pbo_w5s3_41425035.Protego
+pbo_w5s3_41425035.SistemPertahananHogwarts
+pbo_w5s3_41425035.Fidelius
+pbo_w5s3_41425035.MantraPerlindungan

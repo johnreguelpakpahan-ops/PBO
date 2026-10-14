@@ -1,0 +1,6 @@
+pbo_w5s3_41425035.ExpectoPatronum
+pbo_w5s3_41425035.Expelliarmus
+pbo_w5s3_41425035.Penyihir
+pbo_w5s3_41425035.Lumos
+pbo_w5s3_41425035.DuniaSihir
+pbo_w5s3_41425035.Mantra

@@ -1,0 +1,2 @@
+Objek.Student
+Objek.Main

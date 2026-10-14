@@ -1,0 +1,1 @@
+SingelInheritance.Vehicle
